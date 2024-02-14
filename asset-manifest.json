@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inupag/006app.git/static/css/main.e6c13ad2.css",
+    "main.js": "/inupag/006app.git/static/js/main.5c35b160.js",
+    "static/js/592.8e0e5e14.chunk.js": "/inupag/006app.git/static/js/592.8e0e5e14.chunk.js",
+    "index.html": "/inupag/006app.git/index.html",
+    "main.e6c13ad2.css.map": "/inupag/006app.git/static/css/main.e6c13ad2.css.map",
+    "main.5c35b160.js.map": "/inupag/006app.git/static/js/main.5c35b160.js.map",
+    "592.8e0e5e14.chunk.js.map": "/inupag/006app.git/static/js/592.8e0e5e14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c35b160.js"
+  ]
+}
